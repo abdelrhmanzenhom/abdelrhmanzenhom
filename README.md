@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Weather app**
 
-- 🌱 I’m currently learning **Deep learning android with kotlin**
+- 🌱 I’m currently learning **.Net development**
 
 - 📫 How to reach me **abdelrhmanmohamedzenhom@gmail.com**
 
