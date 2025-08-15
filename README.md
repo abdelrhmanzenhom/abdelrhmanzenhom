@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm abdelrhman mohamed</h1>
 <h3 align="center">back-end develope</h3>
 
-- 🔭 I’m currently working on **Weather app**
+- 🔭 I’m currently working on **finishing ITI Scholarship**
 
-- 🌱 I’m currently learning **.Net development**
+- 🌱 I’m currently learning **full stack mearn**
 
 - 📫 How to reach me **abdelrhmanmohamedzenhom@gmail.com**
 
